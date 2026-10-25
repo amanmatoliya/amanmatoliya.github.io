@@ -1,0 +1,19 @@
+index.html
+  s_702a8a86947ed9::t_661e26a8890749 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b64f0d766c992d91e2d9c0653fc9b73085667a48",
+  "prompts": {},
+  "sessions": {
+    "s_702a8a86947ed9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d2e1594e-ddb6-4a8e-b47f-d704f25ce3c4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "amanmatoliya <amanmatoliya@users.noreply.github.com>"
+    }
+  }
+}
