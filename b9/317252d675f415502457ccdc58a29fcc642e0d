@@ -1,0 +1,16 @@
+index.html
+  h_b0060acd853efb 1-26
+privacy.html
+  h_b0060acd853efb 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b9317252d675f415502457ccdc58a29fcc642e0d",
+  "prompts": {},
+  "humans": {
+    "h_b0060acd853efb": {
+      "author": "amanmatoliya <amanmatoliya@users.noreply.github.com>"
+    }
+  }
+}
